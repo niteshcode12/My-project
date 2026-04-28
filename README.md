@@ -1,3 +1,4 @@
+<pre>
 #Simple Calculator
 A basic calculator project built using HTML, CSS, and JavaScript that performs Addition, Subtraction, Multiplication, and Division.
 
@@ -20,3 +21,4 @@ Basic JavaScript Logic
 
 Author
 Nitesh Bishwokarma
+</pre>
