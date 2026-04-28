@@ -1,24 +1,25 @@
 <pre>
-#Simple Calculator
-A basic calculator project built using HTML, CSS, and JavaScript that performs Addition, Subtraction, Multiplication, and Division.
+<b>#Simple Calculator</b>
+A basic calculator project built using HTML, CSS, and JavaScript 
+that performs Addition, Subtraction, Multiplication, and Division.
 
-#Features
+<b>#Features</b>
 Two number inputs
 Add, Subtract, Multiply, Divide buttons
 Instant result display
 Simple responsive design
 
-#Technologies Used
+<b>#Technologies Used</b>
 HTML
 CSS
 JavaScript
 
-#Purpose
+<b>#Purpose</b>
 This project helps beginners practice:
 DOM Manipulation
 Event Handling
 Basic JavaScript Logic
 
-Author
+<b>Author</b>
 Nitesh Bishwokarma
 </pre>
